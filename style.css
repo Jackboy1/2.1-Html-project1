@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playwrite+US+Trad:wght@100..400&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
       font-family:'Times New Roman', Times, serif;
       background-color:rgb(220, 219, 212);
@@ -15,8 +17,8 @@ body {
     }
     nav {
       display: inline;
-      font-family: 'Roboto', sans-serif;
-    }
+      font-family: "Roboto", serif;
+    } 
 
     nav ul {
       list-style: none;
